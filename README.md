@@ -1,11 +1,5 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raj%20Karan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20React%20Native%20%7C%20Building%20Scalable%20Web%20%26%20Mobile%20Apps&descAlignY=62&descSize=16)
-
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Raj+Karan+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+%2B+React+Native;Founder+%40+Cookie+%7C+Freelance+Dev;Turning+ideas+into+scalable+products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
@@ -138,13 +132,7 @@ const rajKaran = {
 
 ---
 
-## 🏆 Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app?username=rkgit-1530&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
