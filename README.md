@@ -6,8 +6,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rkgit-1530&color=70a5fd&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/rkgit-1530?style=flat-square&color=70a5fd&logo=github&logoColor=white)](https://github.com/rkgit-1530)
+![Profile Views](https://komarev.com/ghpvc/?username=rkverse&color=70a5fd&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/rkverse?style=flat-square&color=70a5fd&logo=github&logoColor=white)](https://github.com/rkverse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rajkaran7-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajkaran7)
 [![Email](https://img.shields.io/badge/Email-rajkaranprem%40outlook.com-D14836?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:rajkaranprem@outlook.com)
 
@@ -101,11 +101,11 @@ const rajKaran = {
 
 <div align="center">
 
-<a href="https://github.com/rkgit-1530">
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=rkgit-1530&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/rkverse">
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=rkverse&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/rkgit-1530">
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rkgit-1530&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/rkverse">
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rkverse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -116,7 +116,7 @@ const rajKaran = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rkgit-1530&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rkverse&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -126,7 +126,7 @@ const rajKaran = {
 
 <div align="center">
 
-[![Raj Karan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rkgit-1530&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/rkgit-1530)
+[![Raj Karan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rkverse&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/rkverse)
 
 </div>
 
@@ -188,9 +188,9 @@ const rajKaran = {
 
 | 🔗 Project | 🛠️ Stack | ✨ Highlights |
 |:---|:---|:---|
-| [**ERP Application for CBSE Institute**](https://github.com/rkgit-1530) | React JS, Node JS, MongoDB, Firebase | Role-based portals for **students, admins & teachers**; centralized data management; streamlined academic workflows for a reputed institution |
-| [**Designer Portfolio**](https://github.com/rkgit-1530) | React JS, Tailwind CSS, Firebase | Freelance project; **responsive & user-friendly**; pixel-perfect UI tailored to client's brand identity; zero-server static deployment |
-| [**E-Commerce — RC Toy Brand**](https://github.com/rkgit-1530) | React JS, Tailwind CSS, Firebase | Serverless e-commerce site; expanded online presence for RC toy brand; **affordable, no-backend** architecture with full product catalogue |
+| [**ERP Application for CBSE Institute**](https://github.com/rkverse) | React JS, Node JS, MongoDB, Firebase | Role-based portals for **students, admins & teachers**; centralized data management; streamlined academic workflows for a reputed institution |
+| [**Designer Portfolio**](https://github.com/rkverse) | React JS, Tailwind CSS, Firebase | Freelance project; **responsive & user-friendly**; pixel-perfect UI tailored to client's brand identity; zero-server static deployment |
+| [**E-Commerce — RC Toy Brand**](https://github.com/rkverse) | React JS, Tailwind CSS, Firebase | Serverless e-commerce site; expanded online presence for RC toy brand; **affordable, no-backend** architecture with full product catalogue |
 
 </div>
 
@@ -244,7 +244,7 @@ const rajKaran = {
 ### 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rajkaran7-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajkaran7)
-[![GitHub](https://img.shields.io/badge/GitHub-rkgit--1530-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rkgit-1530)
+[![GitHub](https://img.shields.io/badge/GitHub-rkgit--1530-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rkverse)
 [![Email](https://img.shields.io/badge/Email-rajkaranprem%40outlook.com-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rajkaranprem@outlook.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%209962313298-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919962313298)
 
