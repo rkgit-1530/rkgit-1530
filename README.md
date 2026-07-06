@@ -37,7 +37,7 @@ const rajKaran = {
   ],
 
   roles: [
-    "Founder-Developer @ Cookie",
+    "Freelance-Developer @ Cookie",
     "Freelance Full-Stack Developer",
     "Ex Full-Stack Intern @ Altruisty"
   ],
@@ -49,7 +49,7 @@ const rajKaran = {
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🏢 **Founder** of **Cookie** — delivering web & app projects for clients
+- 🏢 **Freelance Developer** of **Cookie** — delivering web & app projects for clients
 - 💼 **Freelance Developer** — web & mobile apps for diverse clients worldwide
 - 🎓 Pursuing **MSc Applied Data Science** at SRM RMP
 - 🔭 Currently building scalable **MERN** & **React Native** applications
@@ -139,7 +139,7 @@ const rajKaran = {
 ## 💼 Work Experience
 
 <details>
-<summary><b>🍪 Cookie — Founder-Developer &nbsp;|&nbsp; Jan 2025 – Present &nbsp;|&nbsp; Chennai, India</b></summary>
+<summary><b>🍪 Cookie — Freelance-Developer &nbsp;|&nbsp; Jan 2025 – Present &nbsp;|&nbsp; Chennai, India</b></summary>
 
 <br/>
 
